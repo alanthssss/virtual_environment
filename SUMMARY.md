@@ -6,6 +6,6 @@
 * [在虚拟环境中配置开发环境](4zai-xu-ni-huan-jing-zhong-pei-zhi-kai-fa-huan-jing.md)
 * [退出、删除虚拟环境](3tui-chu-3001-shan-chu-xu-ni-huan-jing.md)
 * [拓展复习](tuo-zhan-fu-xi.md)
+  * [根据端口号杀死进程](tuo-zhan-fu-xi/1.md)
   * [Linux命令之rm、cp、mv](tuo-zhan-fu-xi/linuxming-ling-zhi-rm-cp-mv.md)
-* [拓展复习-Linux命令之rm、cp、mv](tuo-zhan-fu-xi.md)
 
