@@ -26,6 +26,7 @@ pip3 install 包名称
 * 当前使用的Python解释器
 * 当前运行的Python程序的位置
 ![](/assets/屏幕快照 2018-04-07 下午9.29.13.png)
+
 #### 终端/命令行/控制台中
 ```
 import sys
