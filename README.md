@@ -12,13 +12,14 @@
 
 ## 复习
 
-### 1.安装Python的包
-
+### 1.pip
+####安装Python的包
 ```
 pip install 包名称
 pip3 install 包名称
 ```
-
+####查看当前环境下安装的Python包
+`pip list` 或者 `pip freeze`
 ### 2.重定向
 
 * `>`将输出结果写在目标文件中，新建或覆盖目标文件
