@@ -1,8 +1,8 @@
-# 虚拟环境软件安装配置
+# 虚拟环境包安装配置
 
 ---
 
-## 虚拟环境软件安装
+## 虚拟环境包安装
 
 ```
 sudo pip install virtualenv
@@ -10,7 +10,7 @@ sudo pip install virtualenvwrapper
 sudo pip easy_install virtualenvwrapper  # Mac
 ```
 
-## 虚拟环境软件配置
+## 虚拟环境包配置
 
 ```
 1、创建目录用来存放虚拟环境
