@@ -1,1 +1,33 @@
-# First Chapter
+# 软件安装配置
+## 软件安装
+
+
+```
+sudo pip install virtualenv
+sudo pip install virtualenvwrapper
+sudo pip easy_install virtualenvwrapper  # Mac
+
+
+
+
+```
+## 软件配置
+
+
+```
+1、创建目录用来存放虚拟环境
+mkdir 
+$HOME/.virtualenvs
+
+2、打开~/.bashrc文件，并添加如下：
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
+
+3、运行
+source ~/.bashrc
+```
+
+
+
+
+
