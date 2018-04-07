@@ -1,4 +1,4 @@
-拓展复习-Linux命令之rm、cp、mv
+#拓展复习-Linux命令之rm、cp、mv
 ---
 ##rm
 可通过rm删除文件或目录。
