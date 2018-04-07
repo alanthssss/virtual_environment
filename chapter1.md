@@ -22,7 +22,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 3、运行
 source ~/.bashrc
-source ~/..bash_profile  # Mac
+source ~/.bash_profile  # Mac
 ```
 
 
