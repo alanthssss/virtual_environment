@@ -14,8 +14,7 @@ sudo pip easy_install virtualenvwrapper  # Mac
 
 ```
 1、创建目录用来存放虚拟环境
-mkdir 
-$HOME/.virtualenvs
+mkdir $HOME/.virtualenvs
 
 2、打开~/.bashrc(Mac下为.bash_profile)文件，并添加如下：
 export WORKON_HOME=$HOME/.virtualenvs
