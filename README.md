@@ -28,6 +28,7 @@ pip3 install 包名称
 ![](/assets/屏幕快照 2018-04-07 下午9.29.13.png)
 
 #### 终端/命令行/控制台中
+在Python环境中执行如下命令查看
 ```
 import sys
 sys.executable
