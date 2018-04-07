@@ -20,7 +20,7 @@ pip install -r ～/Desktop/requirements.txt
 ## 配置成功,其他常用虚拟环境命令
 不常用
 列举虚拟环境用`workon+两次tab`
-查看虚拟环境中的包，可在虚拟环境下`pip list`或者额`pip freeze`
+查看虚拟环境中的包，可在虚拟环境下`pip list`或者`pip freeze`
 ```
 lsvirtualenv    #列举所有的环境。
 cdvirtualenv    #导航到当前激活的虚拟环境的目录中，比如说这样您就能够浏览它的 site-packages。
