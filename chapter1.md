@@ -6,10 +6,6 @@
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
 sudo pip easy_install virtualenvwrapper  # Mac
-
-
-
-
 ```
 ## 软件配置
 
@@ -25,7 +21,10 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 3、运行
 source ~/.bashrc
+
 ```
+
+
 
 
 
