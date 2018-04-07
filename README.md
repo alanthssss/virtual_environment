@@ -1,3 +1,10 @@
-# My Awesome Book
+# 虚拟开发环境配置（for Ubuntu & Mac）by知鱼
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+使用虚拟环境安装开发环境，可以避免包的混乱和版本的冲突。
+
+虚拟环境是Python解释器的副本，在虚拟环境中你可以安装扩展包，为每个程序单独创建的虚拟环境，可以保证程序只能访问虚拟环境中的包。
+
+不会影响系统中安装的全局Python解释器，从而保证全局解释器的整洁。
+
