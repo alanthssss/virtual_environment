@@ -20,6 +20,7 @@ Windows下命令略有不同，故单独说明。
 - 可以在Windows系统中：
    - - 通过Xshell连接Ubuntu虚拟机进行终端操作；
    - - 通过Pycharm连接Ubuntu虚拟机进行远程调试。
+   
 ---
 
 ## 复习
@@ -32,6 +33,7 @@ pip3 install 包名称
 ```
 ####查看当前环境下安装的Python包
 `pip list` 或者 `pip freeze`
+
 ### 2.查看当前使用Python解释器的路径
 #### Pycharm中
 在运行结果上方可以看到
