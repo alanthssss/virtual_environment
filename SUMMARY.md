@@ -8,5 +8,5 @@
 * [拓展复习](tuo-zhan-fu-xi.md)
   * [根据端口号杀死进程](tuo-zhan-fu-xi/1.md)
   * [Linux命令之rm、cp、mv](tuo-zhan-fu-xi/linuxming-ling-zhi-rm-cp-mv.md)
-* [Windows创建虚拟环境](windowschuang-jian-xu-ni-huan-jing.md)
+* [Windows配置虚拟环境](windowschuang-jian-xu-ni-huan-jing.md)
 
