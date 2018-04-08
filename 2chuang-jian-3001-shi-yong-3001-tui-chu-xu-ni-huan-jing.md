@@ -8,7 +8,7 @@
 
 此处以web开发中Flask、Django对应的虚拟环境为例。
 
-如需创建Tornado的web开发、Scrapy的爬虫开发等环境，可以类推。
+如需创建web开发中的Tornado、爬虫开发中的Scrapy等环境，可以类推。
 ```
 # 创建Python2虚拟环境
 mkvirtualenv -p python2.7 flask_py2
