@@ -14,12 +14,12 @@
 Windows下命令略有不同，故单独说明。
 ### 学习要求
 掌握Ubuntu、Mac系统中的Python虚拟开发环境配置使用即可，原因如下：
- - 实际开发中，用远程调试，服务器为Linux系统。
- - 课程学习中
-- 可以在Ubuntu、Mac系统中进行学习。
-- 可以在Windows系统中：
-   - - 通过Xshell连接Ubuntu虚拟机进行终端操作；
-   - - 通过Pycharm连接Ubuntu虚拟机进行远程调试。
+ * 实际开发中，用远程调试，服务器为Linux系统。
+ * 课程学习中
+  - 可以在Ubuntu、Mac系统中进行学习。
+  - 可以在Windows系统中：
+     - 通过Xshell连接Ubuntu虚拟机进行终端操作；
+     - 通过Pycharm连接Ubuntu虚拟机进行远程调试。
    
 ---
 
