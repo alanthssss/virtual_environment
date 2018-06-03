@@ -50,7 +50,7 @@ pip3 install 包名称
 import sys
 sys.executable
 ```
-
+此处要求区分以下两条命令：
   * `sys.executable`查看解释器路径 
   * `sys.path`查看包路径
   
