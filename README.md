@@ -51,6 +51,9 @@ import sys
 sys.executable
 ```
 
+  * `sys.executable`查看解释器路径 
+  * `sys.path`查看包路径
+  
 ###3.重定向
 
 * `>`将输出结果写在目标文件中，新建或覆盖目标文件
