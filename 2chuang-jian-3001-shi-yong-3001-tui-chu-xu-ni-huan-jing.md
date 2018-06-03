@@ -21,6 +21,7 @@ mkvirtualenv -p python3 django_py3
      # 以Django为例,起名原因同上
 ```
 **此处虚拟环境名仅作举例，Flask、Django使用不用版本python时注意Python版本**
+
 如新经咨询项目使用Python3的Flask：
 
 ```
