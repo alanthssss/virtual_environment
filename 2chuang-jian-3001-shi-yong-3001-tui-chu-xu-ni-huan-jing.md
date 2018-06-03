@@ -6,12 +6,14 @@
 
 ### 此处注意创建虚拟环境的版本
 
+
 此处以web开发中Flask、Django对应的虚拟环境为例。
 
 如需创建web开发中的Tornado、爬虫开发中的Scrapy等环境，可以类推。
+**小白特别注意此处：虚拟环境名仅是一个名字，需要使用的模块还要后续配置，创建虚拟环境时重要的是python版本选择**
 ```
 # 创建Python2虚拟环境
-mkvirtualenv -p python2.7 flask_py2
+mkvirtualenv flask_py2
      # 以Flask为例，虚拟环境名称自取，此处为了给Flask使用起名为flask_py2
 # 创建Python2虚拟环境
 mkvirtualenv -p python3 django_py3
