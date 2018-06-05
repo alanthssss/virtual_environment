@@ -7,7 +7,7 @@
 ```
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
-sudo easy_install virtualenvwrapper  # Mac
+sudo easy_install virtualenvwrapper  # Mac（建议使用这一条）
 ```
 
 ## 虚拟环境包配置
