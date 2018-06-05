@@ -22,7 +22,7 @@ mkvirtualenv -p python3 django_py3
 ```
 **此处虚拟环境名仅作举例，Flask、Django使用不用版本python时注意Python版本**
 
-如新经咨询项目使用Python3的Flask：
+如新经资讯项目使用Python3的Flask：
 
 ```
 mkvirtualenv -p python3 f3pyinfo
